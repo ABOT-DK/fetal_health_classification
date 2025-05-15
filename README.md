@@ -1,2 +1,2 @@
-# fetal_health_classification
-A Data Science model to predict the health of fetus during childbirth.
+# Fetal Health Classification
+This project uses machine learning to analyze fetal heart rate and uterine contraction patterns from CTG scans, classifying pregnancies into Normal, Suspect, or Pathological categories to assist in early detection of fetal distress.
