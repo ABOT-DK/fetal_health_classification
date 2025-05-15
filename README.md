@@ -39,6 +39,46 @@ This machine learning project aims to:
 
 ---
 
+## Repository Structure
+## Repository Structure
+```bash
+├── 1_machine_learning/
+│   ├── notebooks/
+│   │   ├── 01_data_loading.md
+│   │   ├── 02_feature_engineering.md
+│   │   ├── 03_model_training.md
+│   │   └── 04_evaluation.md
+│   ├── charts/
+│   │   ├── performance_metrics.md
+│   │   ├── feature_importance.md
+│   │   └── confusion_matrices.md
+│   └── README.md
+│
+├── 2_data_analysis/
+│   ├── notebooks/
+│   │   ├── 01_data_cleaning.md
+│   │   ├── 02_statistical_analysis.md
+│   │   └── 03_visualization.md
+│   ├── dashboard/
+│   │   ├── app_config.md
+│   │   ├── assets.md
+│   │   └── requirements.md
+│   └── README.md
+│
+└── 3_data/
+    ├── test_data/
+    │   ├── test_set.md (with embedded tables/data samples)
+    │   ├── test_labels.md
+    │   └── metadata_test.md
+    ├── train_data/
+    │   ├── train_set.md
+    │   ├── train_labels.md
+    │   └── metadata_train.md
+    └── README.md
+```
+
+---
+
 ## Key Features
 ### Data Attributes Analyzed
 - **Baseline metrics**:
