@@ -1,6 +1,5 @@
 
-# Fetal Health Classification using Cardiotocography (CTG) Data
-
+# Predicting Fetal Health During Childbirth Using CTG Data: A Data Science Approach
 
 
 ## Introduction
