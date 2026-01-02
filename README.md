@@ -8,8 +8,9 @@ Cardiotocography (CTG) is a vital prenatal diagnostic tool used to monitor fetal
 ---
 
 ## Relevance
-Accurate interpretation of CTG data is critical for distinguishing between normal, suspect, and pathological fetal states. Abnormal patterns may prompt further investigations—such as ultrasound scans or blood tests—or urgent medical interventions like emergency delivery. However, CTG analysis is complex and subjective, often requiring advanced tools to standardize evaluations and reduce human error.
-By tracking these physiological signals, CTG helps:
+Accurate interpretation of CTG data is critical for distinguishing between normal, suspect, and pathological fetal states. Abnormal patterns may prompt further investigations, such as; ultrasound scans or blood tests, or urgent medical interventions like emergency delivery. However, CTG analysis is complex and subjective, often requiring advanced tools to standardize evaluations and reduce human error.
+
+Tracking these physiological signals, CTG helps:
 - Assess fetal well-being
 - Detect fetal distress early
 - Identify high-risk pregnancies
@@ -18,8 +19,8 @@ By tracking these physiological signals, CTG helps:
 ---
 
 ## Problem Statement
-Current challenges in CTG interpretation:
-- Subjective analysis leads to variability
+The following are the current challenges in CTG:
+- Subjective analysis leading to variability in interpretation
 - Complex patterns are hard to standardize
 - Delays in identifying pathological cases
 - High false-positive rates in manual reading
