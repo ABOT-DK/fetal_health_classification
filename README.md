@@ -40,7 +40,6 @@ This machine learning project aims to:
 ---
 
 ## Repository Structure
-## Repository Structure
 ```bash
 ├── 1_machine_learning/
 │   ├── notebooks/
